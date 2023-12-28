@@ -1,0 +1,1680 @@
+Avg Critic Score,Critic Score,Region,Vintage,Wine Name,_id
+91,93,Pauillac,2022,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc26837f
+91,91,Pauillac,2021,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268380
+91,93,Pauillac,2020,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268381
+91,92,Pauillac,2019,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268382
+91,90,Pauillac,2017,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268383
+91,92,Pauillac,2016,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268384
+91,91,Pauillac,2015,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268385
+91,90,Pauillac,2014,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268386
+91,93,Pauillac,2018,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268387
+91,88,Pauillac,2013,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268388
+91,90,Pauillac,2012,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268389
+91,89,Pauillac,2011,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc26838a
+91,91,Pauillac,2010,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc26838b
+91,91,Pauillac,2009,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc26838c
+91,90,Pauillac,2008,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc26838d
+91,88,Pauillac,2007,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc26838e
+91,90,Pauillac,2006,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc26838f
+91,90,Pauillac,2005,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268390
+91,88,Pauillac,2004,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268391
+91,90,Pauillac,2003,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268392
+91,88,Pauillac,2002,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268393
+91,88,Pauillac,2001,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268394
+91,89,Pauillac,2000,"Carruades de Lafite, Pauillac",6581ba4099d7fcd8bc268395
+95,95,Saint-Emilion Grand Cru,2017,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc268396
+95,94,Saint-Emilion Grand Cru,2014,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc268397
+95,92,Saint-Emilion Grand Cru,2013,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc268398
+95,93,Saint-Emilion Grand Cru,2012,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc268399
+95,93,Saint-Emilion Grand Cru,2011,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc26839a
+95,95,Saint-Emilion Grand Cru,2010,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc26839b
+95,96,Saint-Emilion Grand Cru,2015,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc26839c
+95,95,Saint-Emilion Grand Cru,2009,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc26839d
+95,93,Saint-Emilion Grand Cru,2008,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc26839e
+95,92,Saint-Emilion Grand Cru,2007,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc26839f
+95,93,Saint-Emilion Grand Cru,2006,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683a0
+95,96,Saint-Emilion Grand Cru,2019,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683a1
+95,97,Saint-Emilion Grand Cru,2020,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683a2
+95,90,Saint-Emilion Grand Cru,2002,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683a3
+95,97,Saint-Emilion Grand Cru,2016,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683a4
+95,97,Saint-Emilion Grand Cru,2022,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683a5
+95,93,Saint-Emilion Grand Cru,2001,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683a6
+96,96,Saint-Emilion,2021,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683a7
+96,97,Saint-Emilion,2022,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683a8
+95,94,Saint-Emilion Grand Cru,2000,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683a9
+95,95,Saint-Emilion Grand Cru,2005,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683aa
+95,96,Saint-Emilion Grand Cru,2018,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683ab
+95,93,Saint-Emilion Grand Cru,2003,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683ac
+95,93,Saint-Emilion Grand Cru,2004,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683ad
+95,94,Saint-Emilion Grand Cru,2021,"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru ",6581ba4099d7fcd8bc2683ae
+96,98,Saint-Emilion,2019,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683af
+96,98,Saint-Emilion,2018,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683b0
+96,96,Saint-Emilion,2017,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683b1
+96,97,Saint-Emilion,2020,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683b2
+96,97,Saint-Emilion,2015,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683b3
+96,98,Saint-Emilion,2016,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683b4
+96,95,Saint-Emilion,2014,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683b5
+96,92,Saint-Emilion,2013,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683b6
+96,95,Saint-Emilion,2012,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683b7
+96,97,Saint-Emilion,2009,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683b8
+96,95,Saint-Emilion,2008,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683b9
+96,93,Saint-Emilion,2007,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683ba
+96,95,Saint-Emilion,2006,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683bb
+96,98,Saint-Emilion,2005,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683bc
+96,94,Saint-Emilion,2004,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683bd
+96,96,Saint-Emilion,2003,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683be
+96,93,Saint-Emilion,2002,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683bf
+96,97,Saint-Emilion,2000,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683c0
+93,92,Saint-Julien,2021,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683c1
+93,94,Saint-Julien,2022,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683c2
+93,94,Saint-Julien,2020,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683c3
+93,93,Saint-Julien,2019,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683c4
+93,94,Saint-Julien,2018,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683c5
+93,93,Saint-Julien,2017,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683c6
+96,94,Saint-Emilion,2001,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683c7
+96,95,Saint-Emilion,2011,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683c8
+96,97,Saint-Emilion,2010,"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683c9
+93,93,Saint-Julien,2016,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683ca
+93,93,Saint-Julien,2015,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683cb
+93,92,Saint-Julien,2014,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683cc
+93,90,Saint-Julien,2013,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683cd
+93,90,Saint-Julien,2011,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683ce
+93,91,Saint-Julien,2012,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683cf
+93,92,Saint-Julien,2010,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683d0
+93,92,Saint-Julien,2009,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683d1
+93,89,Saint-Julien,2003,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683d2
+93,89,Saint-Julien,2001,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683d3
+93,91,Saint-Julien,2000,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683d4
+94,96,Saint-Estephe,2022,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683d5
+93,88,Saint-Julien,2002,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683d6
+94,94,Saint-Estephe,2021,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683d7
+94,96,Saint-Estephe,2020,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683d8
+94,95,Saint-Estephe,2018,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683d9
+94,95,Saint-Estephe,2019,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683da
+94,94,Saint-Estephe,2017,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683db
+93,91,Saint-Julien,2005,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683dc
+94,96,Saint-Estephe,2016,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683dd
+93,90,Saint-Julien,2006,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683de
+94,91,Saint-Estephe,2013,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683df
+94,92,Saint-Estephe,2012,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683e0
+94,92,Saint-Estephe,2011,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683e1
+94,93,Saint-Estephe,2010,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683e2
+94,94,Saint-Estephe,2009,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683e3
+94,91,Saint-Estephe,2008,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683e4
+94,89,Saint-Estephe,2007,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683e5
+94,93,Saint-Estephe,2015,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683e6
+93,90,Saint-Julien,2008,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683e7
+93,88,Saint-Julien,2007,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2683e8
+94,93,Saint-Estephe,2005,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683e9
+94,91,Saint-Estephe,2000,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683ea
+94,91,Saint-Estephe,2006,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683eb
+94,92,Saint-Estephe,2003,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683ec
+94,94,Saint-Estephe,2014,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683ed
+94,88,Saint-Estephe,2004,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683ee
+96,98,Saint-Emilion,2022,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683ef
+96,97,Saint-Emilion,2020,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683f0
+96,96,Saint-Emilion,2021,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683f1
+96,97,Saint-Emilion,2018,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683f2
+94,89,Saint-Estephe,2002,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2683f3
+96,98,Saint-Emilion,2019,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683f4
+96,97,Saint-Emilion,2016,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683f5
+96,95,Saint-Emilion,2014,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683f6
+96,95,Saint-Emilion,2017,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683f7
+96,94,Saint-Emilion,2011,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683f8
+96,97,Saint-Emilion,2015,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683f9
+96,94,Saint-Emilion,2012,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683fa
+96,97,Saint-Emilion,2009,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683fb
+96,92,Saint-Emilion,2013,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683fc
+96,96,Saint-Emilion,2005,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683fd
+96,94,Saint-Emilion,2008,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683fe
+96,94,Saint-Emilion,2006,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc2683ff
+96,97,Saint-Emilion,2010,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268400
+96,92,Saint-Emilion,2007,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268401
+96,96,Saint-Emilion,2000,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268402
+96,93,Saint-Emilion,2003,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268403
+96,93,Saint-Emilion,2004,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268404
+96,91,Saint-Emilion,2002,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268405
+96,93,Saint-Emilion,2001,"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268406
+94,93,Sauternes - Barsac,2022,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268407
+94,94,Sauternes - Barsac,2013,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268408
+94,92,Sauternes - Barsac,2012,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268409
+94,95,Sauternes - Barsac,2011,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26840a
+94,94,Sauternes - Barsac,2010,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26840b
+94,94,Sauternes - Barsac,2016,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26840c
+94,96,Sauternes - Barsac,2009,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26840d
+93,89,Saint-Julien,2004,"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26840e
+94,95,Sauternes - Barsac,2007,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26840f
+94,93,Sauternes - Barsac,2008,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268410
+94,95,Sauternes - Barsac,2006,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268411
+94,94,Sauternes - Barsac,2005,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268412
+94,88,Saint-Estephe,2001,"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc268413
+94,95,Sauternes - Barsac,2020,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268414
+94,93,Sauternes - Barsac,2019,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268415
+94,94,Sauternes - Barsac,2014,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268416
+94,95,Sauternes - Barsac,2015,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268417
+94,94,Sauternes - Barsac,2003,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268418
+94,92,Sauternes - Barsac,2004,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268419
+94,94,Sauternes - Barsac,2002,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26841a
+94,95,Sauternes - Barsac,2001,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26841b
+94,91,Sauternes - Barsac,2000,"Chateau Climens Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26841c
+93,95,Pomerol,2022,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc26841d
+93,92,Pomerol,2021,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc26841e
+93,94,Pomerol,2020,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc26841f
+93,95,Pomerol,2019,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268420
+93,94,Pomerol,2018,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268421
+93,91,Pomerol,2017,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268422
+93,94,Pomerol,2016,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268423
+93,94,Pomerol,2015,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268424
+93,90,Pomerol,2013,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268425
+93,91,Pomerol,2012,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268426
+93,92,Pomerol,2011,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268427
+93,93,Pomerol,2010,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268428
+93,93,Pomerol,2009,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268429
+93,90,Pomerol,2007,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc26842a
+93,91,Pomerol,2006,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc26842b
+93,92,Pomerol,2005,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc26842c
+93,90,Pomerol,2004,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc26842d
+93,91,Pomerol,2008,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc26842e
+93,89,Pomerol,2003,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc26842f
+93,89,Pomerol,2002,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268430
+93,89,Pomerol,2001,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268431
+93,90,Pomerol,2000,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc268432
+93,93,Sauternes - Barsac,2020,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268433
+93,94,Sauternes - Barsac,2015,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268434
+93,93,Sauternes - Barsac,2022,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268435
+93,93,Sauternes - Barsac,2013,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268436
+93,94,Sauternes - Barsac,2014,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268437
+93,91,Sauternes - Barsac,2012,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268438
+93,93,Sauternes - Barsac,2011,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268439
+93,94,Sauternes - Barsac,2009,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26843a
+93,91,Pomerol,2014,"Chateau Clinet, Pomerol",6581ba4099d7fcd8bc26843b
+93,93,Sauternes - Barsac,2010,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26843c
+93,91,Sauternes - Barsac,2008,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26843d
+93,92,Sauternes - Barsac,2006,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26843e
+93,89,Sauternes - Barsac,2004,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26843f
+93,92,Sauternes - Barsac,2005,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268440
+93,93,Sauternes - Barsac,2007,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268441
+93,92,Sauternes - Barsac,2003,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268442
+93,92,Sauternes - Barsac,2018,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268443
+93,93,Sauternes - Barsac,2017,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268444
+93,93,Sauternes - Barsac,2019,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268445
+93,93,Sauternes - Barsac,2021,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268446
+93,92,Sauternes - Barsac,2002,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268447
+93,93,Sauternes - Barsac,2016,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268448
+93,92,Sauternes - Barsac,2001,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc268449
+91,93,Pauillac,2022,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26844a
+91,91,Pauillac,2021,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26844b
+93,89,Sauternes - Barsac,2000,"Chateau Coutet Premier Cru Classe, Barsac",6581ba4099d7fcd8bc26844c
+91,93,Pauillac,2019,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26844d
+91,93,Pauillac,2018,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26844e
+91,91,Pauillac,2017,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26844f
+91,93,Pauillac,2020,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268450
+91,92,Pauillac,2010,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268451
+91,92,Pauillac,2009,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268452
+91,91,Pauillac,2008,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268453
+91,89,Pauillac,2007,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268454
+91,89,Pauillac,2006,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268455
+91,91,Pauillac,2005,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268456
+91,91,Pauillac,2014,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268457
+91,91,Pauillac,2003,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268458
+91,90,Pauillac,2004,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268459
+91,89,Pauillac,2002,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26845a
+91,90,Pauillac,2012,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26845b
+91,92,Pauillac,2016,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26845c
+91,88,Pauillac,2013,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26845d
+91,90,Pauillac,2001,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26845e
+91,90,Pauillac,2011,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26845f
+91,91,Pauillac,2015,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268460
+93,94,Pauillac,2016,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268461
+93,93,Pauillac,2015,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268462
+93,93,Pauillac,2014,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268463
+93,93,Pauillac,2018,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268464
+93,91,Pauillac,2012,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268465
+93,90,Pauillac,2013,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268466
+93,90,Pauillac,2011,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268467
+93,93,Pauillac,2010,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268468
+93,94,Pauillac,2009,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268469
+93,90,Pauillac,2008,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26846a
+93,90,Pauillac,2007,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26846b
+93,91,Pauillac,2006,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26846c
+93,95,Pauillac,2019,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26846d
+93,95,Pauillac,2022,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26846e
+91,90,Pauillac,2000,"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26846f
+93,92,Pauillac,2017,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268470
+93,93,Pauillac,2005,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268471
+93,95,Saint-Julien,2022,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268472
+93,92,Pauillac,2021,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268473
+93,90,Pauillac,2003,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268474
+93,89,Pauillac,2001,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268475
+93,94,Saint-Julien,2019,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268476
+93,93,Saint-Julien,2021,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268477
+93,91,Pauillac,2004,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268478
+93,88,Pauillac,2002,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268479
+93,93,Saint-Julien,2018,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26847a
+93,92,Pauillac,2000,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26847b
+93,92,Saint-Julien,2017,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26847c
+93,93,Saint-Julien,2016,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26847d
+93,93,Saint-Julien,2015,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26847e
+93,92,Saint-Julien,2014,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26847f
+93,90,Saint-Julien,2008,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268480
+93,89,Saint-Julien,2007,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268481
+93,91,Saint-Julien,2012,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268482
+93,90,Saint-Julien,2006,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268483
+93,90,Saint-Julien,2004,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268484
+93,90,Saint-Julien,2003,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268485
+93,88,Saint-Julien,2002,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268486
+93,91,Saint-Julien,2001,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268487
+93,92,Saint-Julien,2000,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268488
+93,91,Saint-Julien,2005,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268489
+94,96,Pessac-Leognan,2022,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26848a
+94,96,Pessac-Leognan,2020,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26848b
+94,95,Pessac-Leognan,2019,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26848c
+94,94,Pessac-Leognan,2021,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26848d
+93,89,Saint-Julien,2013,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26848e
+93,93,Saint-Julien,2010,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26848f
+94,96,Pessac-Leognan,2016,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268490
+93,93,Saint-Julien,2009,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268491
+94,96,Pessac-Leognan,2015,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268492
+94,94,Pessac-Leognan,2014,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268493
+93,90,Saint-Julien,2011,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268494
+94,94,Pessac-Leognan,2017,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268495
+94,95,Pessac-Leognan,2018,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268496
+93,94,Pauillac,2020,"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268497
+93,94,Saint-Julien,2020,"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268498
+94,91,Pessac-Leognan,2007,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268499
+94,92,Pessac-Leognan,2006,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26849a
+94,92,Pessac-Leognan,2004,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26849b
+94,93,Pessac-Leognan,2005,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26849c
+94,91,Pessac-Leognan,2003,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26849d
+94,91,Pessac-Leognan,2001,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26849e
+94,93,Pessac-Leognan,2000,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26849f
+94,91,Pessac-Leognan,2011,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684a0
+94,91,Pessac-Leognan,2013,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684a1
+96,96,Pessac-Leognan,2021,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684a2
+96,97,Pessac-Leognan,2022,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684a3
+96,97,Pessac-Leognan,2020,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684a4
+96,97,Pessac-Leognan,2019,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684a5
+96,96,Pessac-Leognan,2017,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684a6
+94,92,Pessac-Leognan,2012,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684a7
+94,95,Pessac-Leognan,2009,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684a8
+96,96,Pessac-Leognan,2018,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684a9
+94,93,Pessac-Leognan,2008,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684aa
+94,95,Pessac-Leognan,2010,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684ab
+96,97,Pessac-Leognan,2016,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684ac
+96,97,Pessac-Leognan,2015,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684ad
+94,90,Pessac-Leognan,2002,"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684ae
+96,95,Pessac-Leognan,2014,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684af
+96,93,Pessac-Leognan,2013,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684b0
+96,95,Pessac-Leognan,2012,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684b1
+96,97,Pessac-Leognan,2009,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684b2
+96,97,Pessac-Leognan,2010,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684b3
+96,94,Pessac-Leognan,2007,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684b4
+96,94,Pessac-Leognan,2008,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684b5
+96,97,Pessac-Leognan,2005,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684b6
+96,94,Pessac-Leognan,2004,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684b7
+96,94,Pessac-Leognan,2003,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684b8
+96,95,Pessac-Leognan,2006,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684b9
+96,94,Pessac-Leognan,2011,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684ba
+96,96,Pessac-Leognan,2000,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684bb
+95,97,Pomerol,2022,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684bc
+95,94,Pomerol,2021,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684bd
+95,96,Pomerol,2020,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684be
+95,97,Pomerol,2019,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684bf
+95,96,Pomerol,2018,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684c0
+95,95,Pomerol,2017,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684c1
+95,96,Pomerol,2015,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684c2
+95,94,Pomerol,2014,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684c3
+95,97,Pomerol,2016,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684c4
+95,94,Pomerol,2012,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684c5
+95,93,Pomerol,2011,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684c6
+95,96,Pomerol,2010,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684c7
+95,95,Pomerol,2009,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684c8
+95,93,Pomerol,2008,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684c9
+95,91,Pomerol,2007,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684ca
+95,93,Pomerol,2006,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684cb
+96,92,Pessac-Leognan,2002,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684cc
+95,96,Pomerol,2005,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684cd
+96,94,Pessac-Leognan,2001,"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2684ce
+95,92,Pomerol,2004,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684cf
+94,93,Pomerol,2021,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684d0
+94,95,Pomerol,2020,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684d1
+94,94,Pomerol,2019,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684d2
+94,95,Pomerol,2018,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684d3
+94,94,Pomerol,2017,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684d4
+94,96,Pomerol,2016,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684d5
+94,95,Pomerol,2015,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684d6
+94,93,Pomerol,2014,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684d7
+94,91,Pomerol,2013,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684d8
+94,93,Pomerol,2012,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684d9
+95,90,Pomerol,2002,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684da
+94,94,Pomerol,2010,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684db
+95,96,Pomerol,2000,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684dc
+94,93,Pomerol,2008,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684dd
+94,91,Pomerol,2007,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684de
+94,92,Pomerol,2006,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684df
+94,95,Pomerol,2009,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684e0
+94,95,Pomerol,2022,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684e1
+95,94,Pomerol,2001,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684e2
+95,92,Pomerol,2013,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684e3
+95,92,Pomerol,2003,"Chateau L'Eglise-Clinet, Pomerol",6581ba4099d7fcd8bc2684e4
+95,97,Pomerol,2022,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684e5
+95,95,Pomerol,2021,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684e6
+94,90,Pomerol,2003,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684e7
+94,91,Pomerol,2001,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684e8
+95,97,Pomerol,2019,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684e9
+95,95,Pomerol,2018,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684ea
+95,94,Pomerol,2017,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684eb
+95,96,Pomerol,2016,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684ec
+95,93,Pomerol,2014,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684ed
+95,95,Pomerol,2015,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684ee
+95,91,Pomerol,2013,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684ef
+94,94,Pomerol,2000,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684f0
+94,92,Pomerol,2011,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684f1
+94,91,Pomerol,2002,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684f2
+94,92,Pomerol,2004,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684f3
+94,95,Pomerol,2005,"Chateau L'Evangile, Pomerol",6581ba4099d7fcd8bc2684f4
+95,97,Pomerol,2020,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684f5
+95,95,Pomerol,2005,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684f6
+95,91,Pomerol,2004,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684f7
+95,90,Pomerol,2003,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684f8
+95,89,Pomerol,2002,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684f9
+95,93,Pomerol,2001,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684fa
+95,93,Pomerol,2000,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc2684fb
+94,96,Pomerol,2022,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc2684fc
+94,93,Pomerol,2021,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc2684fd
+94,95,Pomerol,2020,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc2684fe
+94,95,Pomerol,2019,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc2684ff
+95,95,Pomerol,2009,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc268500
+95,90,Pomerol,2007,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc268501
+95,92,Pomerol,2008,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc268502
+95,92,Pomerol,2011,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc268503
+95,95,Pomerol,2010,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc268504
+95,93,Pomerol,2012,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc268505
+95,93,Pomerol,2006,"Chateau La Conseillante, Pomerol",6581ba4099d7fcd8bc268506
+94,95,Pomerol,2016,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc268507
+94,95,Pomerol,2010,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc268508
+94,94,Pomerol,2009,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc268509
+94,92,Pomerol,2008,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26850a
+94,90,Pomerol,2007,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26850b
+94,92,Pomerol,2006,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26850c
+94,93,Pomerol,2005,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26850d
+94,90,Pomerol,2004,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26850e
+94,89,Pomerol,2003,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26850f
+94,90,Pomerol,2002,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc268510
+94,90,Pomerol,2001,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc268511
+94,92,Pomerol,2011,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc268512
+94,92,Pomerol,2000,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc268513
+95,96,Pessac-Leognan,2022,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268514
+95,95,Pessac-Leognan,2021,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268515
+95,96,Pessac-Leognan,2020,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268516
+95,96,Pessac-Leognan,2018,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268517
+95,95,Pessac-Leognan,2017,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268518
+95,96,Pessac-Leognan,2019,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268519
+94,94,Pomerol,2015,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26851a
+94,93,Pomerol,2014,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26851b
+94,91,Pomerol,2013,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26851c
+94,93,Pomerol,2012,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26851d
+94,94,Pomerol,2017,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26851e
+94,95,Pomerol,2018,"Chateau La Fleur-Petrus, Pomerol",6581ba4099d7fcd8bc26851f
+95,96,Pessac-Leognan,2016,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268520
+95,96,Pessac-Leognan,2015,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268521
+95,94,Pessac-Leognan,2014,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268522
+95,92,Pessac-Leognan,2013,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268523
+95,94,Pessac-Leognan,2012,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268524
+95,93,Pessac-Leognan,2011,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268525
+95,97,Pessac-Leognan,2010,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268526
+95,96,Pessac-Leognan,2009,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268527
+95,93,Pessac-Leognan,2008,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268528
+95,92,Pessac-Leognan,2004,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268529
+96,98,Pauillac,2022,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26852a
+96,96,Pauillac,2021,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26852b
+96,97,Pauillac,2020,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26852c
+96,97,Pauillac,2019,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26852d
+96,98,Pauillac,2018,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26852e
+96,95,Pauillac,2017,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26852f
+96,97,Pauillac,2016,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268530
+96,96,Pauillac,2015,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268531
+96,95,Pauillac,2014,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268532
+96,92,Pauillac,2013,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268533
+96,93,Pauillac,2012,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268534
+96,94,Pauillac,2011,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268535
+96,97,Pauillac,2010,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268536
+96,96,Pauillac,2009,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268537
+96,94,Pauillac,2008,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268538
+96,93,Pauillac,2007,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268539
+96,95,Pauillac,2006,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26853a
+95,95,Pessac-Leognan,2000,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26853b
+96,96,Pauillac,2005,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26853c
+96,95,Pauillac,2004,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26853d
+96,95,Pauillac,2003,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26853e
+96,94,Pauillac,2001,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26853f
+96,93,Pauillac,2002,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268540
+96,98,Pomerol,2022,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268541
+96,97,Pauillac,2000,"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268542
+96,96,Pomerol,2021,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268543
+96,98,Pomerol,2020,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268544
+96,98,Pomerol,2018,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268545
+96,97,Pomerol,2017,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268546
+96,98,Pomerol,2016,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268547
+96,97,Pomerol,2015,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268548
+96,95,Pomerol,2014,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268549
+96,92,Pomerol,2013,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc26854a
+96,95,Pomerol,2012,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc26854b
+96,94,Pomerol,2011,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc26854c
+96,97,Pomerol,2010,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc26854d
+96,97,Pomerol,2009,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc26854e
+96,94,Pomerol,2008,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc26854f
+95,93,Pessac-Leognan,2003,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268550
+96,93,Pomerol,2007,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268551
+96,97,Pomerol,2005,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268552
+96,93,Pomerol,2004,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268553
+96,93,Pomerol,2006,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268554
+96,91,Pomerol,2002,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268555
+96,93,Pomerol,2003,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268556
+96,93,Pomerol,2001,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268557
+96,97,Pomerol,2000,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268558
+96,98,Pauillac,2022,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268559
+96,97,Pauillac,2020,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26855a
+96,98,Pauillac,2019,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26855b
+96,98,Pauillac,2018,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26855c
+96,96,Pauillac,2017,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26855d
+96,96,Pauillac,2021,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26855e
+96,96,Pauillac,2015,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26855f
+96,98,Pauillac,2016,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268560
+96,96,Pauillac,2014,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268561
+95,92,Pessac-Leognan,2007,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268562
+95,93,Pessac-Leognan,2006,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268563
+95,96,Pessac-Leognan,2005,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268564
+96,99,Pomerol,2019,"Chateau Lafleur, Pomerol",6581ba4099d7fcd8bc268565
+95,91,Pessac-Leognan,2002,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268566
+95,93,Pessac-Leognan,2001,"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268567
+96,93,Pauillac,2013,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268568
+96,94,Pauillac,2012,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268569
+96,94,Pauillac,2011,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26856a
+96,98,Pauillac,2010,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26856b
+96,97,Pauillac,2009,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26856c
+96,95,Pauillac,2008,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26856d
+96,92,Pauillac,2007,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26856e
+96,94,Pauillac,2006,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26856f
+96,97,Pauillac,2005,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268570
+96,95,Pauillac,2004,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268571
+96,95,Pauillac,2002,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268572
+96,94,Pauillac,2001,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268573
+96,97,Pauillac,2003,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268574
+96,96,Pauillac,2000,"Chateau Latour Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268575
+94,95,Saint-Julien,2022,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268576
+94,93,Saint-Julien,2021,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268577
+94,95,Saint-Julien,2020,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268578
+94,95,Saint-Julien,2019,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268579
+94,94,Saint-Julien,2017,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26857a
+94,95,Saint-Julien,2018,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26857b
+94,94,Saint-Julien,2015,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26857c
+94,95,Saint-Julien,2016,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26857d
+94,90,Saint-Julien,2013,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26857e
+94,93,Saint-Julien,2014,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26857f
+94,92,Saint-Julien,2011,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268580
+94,91,Saint-Julien,2012,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268581
+94,94,Saint-Julien,2009,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268582
+94,94,Saint-Julien,2010,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268583
+94,92,Saint-Julien,2001,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268584
+94,94,Saint-Julien,2000,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268585
+96,98,Saint-Julien,2022,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268586
+96,95,Saint-Julien,2021,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268587
+96,97,Saint-Julien,2020,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268588
+94,94,Saint-Julien,2005,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268589
+96,97,Saint-Julien,2018,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26858a
+96,95,Saint-Julien,2017,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26858b
+96,97,Saint-Julien,2016,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26858c
+96,96,Saint-Julien,2015,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26858d
+94,92,Saint-Julien,2008,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26858e
+96,92,Saint-Julien,2013,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26858f
+96,94,Saint-Julien,2012,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268590
+96,93,Saint-Julien,2011,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268591
+96,96,Saint-Julien,2010,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268592
+96,96,Saint-Julien,2009,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268593
+96,94,Saint-Julien,2008,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268594
+96,93,Saint-Julien,2007,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268595
+96,93,Saint-Julien,2006,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268596
+94,92,Saint-Julien,2007,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268597
+96,93,Saint-Julien,2004,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268598
+96,94,Saint-Julien,2003,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268599
+96,92,Saint-Julien,2002,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26859a
+96,93,Saint-Julien,2001,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26859b
+96,95,Saint-Julien,2000,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26859c
+94,95,Saint-Julien,2022,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26859d
+94,93,Saint-Julien,2021,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26859e
+94,95,Saint-Julien,2020,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc26859f
+94,95,Saint-Julien,2019,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685a0
+94,95,Saint-Julien,2018,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685a1
+94,91,Saint-Julien,2006,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685a2
+94,95,Saint-Julien,2016,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685a3
+94,94,Saint-Julien,2015,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685a4
+94,93,Saint-Julien,2014,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685a5
+94,91,Saint-Julien,2013,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685a6
+94,92,Saint-Julien,2012,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685a7
+94,92,Saint-Julien,2011,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685a8
+94,95,Saint-Julien,2010,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685a9
+94,95,Saint-Julien,2009,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685aa
+94,92,Saint-Julien,2008,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685ab
+94,91,Saint-Julien,2007,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685ac
+96,97,Saint-Julien,2019,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685ad
+94,93,Saint-Julien,2005,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685ae
+94,92,Saint-Julien,2004,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685af
+94,94,Saint-Julien,2003,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685b0
+94,90,Saint-Julien,2002,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685b1
+94,92,Saint-Julien,2001,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685b2
+94,93,Saint-Julien,2000,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685b3
+94,92,Saint-Julien,2002,"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685b4
+94,94,Pauillac,2021,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685b5
+94,95,Pauillac,2020,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685b6
+94,92,Saint-Julien,2006,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685b7
+94,95,Pauillac,2018,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685b8
+94,93,Pauillac,2017,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685b9
+94,95,Pauillac,2016,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685ba
+94,93,Pauillac,2015,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685bb
+94,93,Pauillac,2014,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685bc
+94,89,Pauillac,2013,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685bd
+94,91,Pauillac,2012,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685be
+94,91,Pauillac,2011,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685bf
+96,95,Saint-Julien,2014,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685c0
+94,94,Pauillac,2009,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685c1
+94,91,Pauillac,2008,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685c2
+94,90,Pauillac,2007,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685c3
+94,94,Pauillac,2010,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685c4
+94,93,Pauillac,2005,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685c5
+94,91,Pauillac,2006,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685c6
+94,93,Pauillac,2003,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685c7
+94,90,Pauillac,2002,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685c8
+94,90,Pauillac,2001,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685c9
+94,91,Pauillac,2004,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685ca
+96,97,Margaux,2022,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685cb
+94,93,Pauillac,2000,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685cc
+94,92,Saint-Julien,2004,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685cd
+96,98,Margaux,2019,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685ce
+96,97,Margaux,2018,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685cf
+96,96,Margaux,2017,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685d0
+96,97,Margaux,2016,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685d1
+94,93,Saint-Julien,2003,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685d2
+94,95,Pauillac,2022,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685d3
+94,96,Pauillac,2019,"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2685d4
+96,98,Margaux,2020,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685d5
+94,93,Saint-Julien,2017,"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685d6
+96,96,Saint-Julien,2005,"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2685d7
+96,98,Margaux,2015,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685d8
+96,95,Margaux,2014,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685d9
+96,93,Margaux,2013,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685da
+96,94,Margaux,2012,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685db
+96,94,Margaux,2011,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685dc
+96,97,Margaux,2010,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685dd
+96,98,Margaux,2009,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685de
+96,94,Margaux,2008,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685df
+96,93,Margaux,2007,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685e0
+96,97,Margaux,2005,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685e1
+96,94,Margaux,2004,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685e2
+96,96,Margaux,2003,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685e3
+96,92,Margaux,2002,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685e4
+96,94,Margaux,2001,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685e5
+96,97,Margaux,2000,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685e6
+95,98,Saint-Estephe,2022,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685e7
+95,94,Saint-Estephe,2021,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685e8
+95,96,Saint-Estephe,2020,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685e9
+95,96,Saint-Estephe,2018,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685ea
+96,96,Margaux,2021,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685eb
+96,94,Margaux,2006,"Chateau Margaux Premier Cru Classe, Margaux",6581ba4099d7fcd8bc2685ec
+95,97,Saint-Estephe,2019,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685ed
+95,94,Saint-Estephe,2017,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685ee
+95,97,Saint-Estephe,2016,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685ef
+95,95,Saint-Estephe,2015,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685f0
+95,92,Saint-Estephe,2013,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685f1
+95,95,Saint-Estephe,2014,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685f2
+95,92,Saint-Estephe,2011,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685f3
+95,93,Saint-Estephe,2012,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685f4
+95,92,Saint-Estephe,2008,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685f5
+95,96,Saint-Estephe,2010,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685f6
+95,96,Saint-Estephe,2009,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685f7
+95,91,Saint-Estephe,2006,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685f8
+95,91,Saint-Estephe,2007,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685f9
+95,92,Saint-Estephe,2004,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685fa
+95,94,Saint-Estephe,2005,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685fb
+95,93,Saint-Estephe,2001,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685fc
+95,95,Saint-Estephe,2003,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2685fd
+96,95,Pauillac,2017,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc2685fe
+96,98,Pauillac,2016,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc2685ff
+96,96,Pauillac,2015,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268600
+96,95,Pauillac,2014,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268601
+96,93,Pauillac,2013,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268602
+96,95,Pauillac,2012,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268603
+96,94,Pauillac,2011,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268604
+96,97,Pauillac,2010,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268605
+96,97,Pauillac,2009,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268606
+95,90,Saint-Estephe,2002,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc268607
+96,93,Pauillac,2007,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268608
+96,94,Pauillac,2006,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268609
+96,96,Pauillac,2005,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26860a
+96,93,Pauillac,2004,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26860b
+96,93,Pauillac,2003,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26860c
+96,93,Pauillac,2002,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26860d
+96,92,Pauillac,2001,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26860e
+96,94,Pauillac,2000,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26860f
+96,98,Pauillac,2020,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268610
+95,94,Margaux,2021,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268611
+95,96,Margaux,2020,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268612
+95,97,Margaux,2019,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268613
+95,97,Margaux,2018,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268614
+95,95,Margaux,2017,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268615
+95,97,Margaux,2016,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268616
+95,96,Margaux,2015,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268617
+95,94,Margaux,2014,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268618
+95,91,Margaux,2013,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268619
+95,94,Saint-Estephe,2000,"Chateau Montrose 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc26861a
+95,93,Margaux,2011,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc26861b
+95,96,Margaux,2010,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc26861c
+95,96,Margaux,2009,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc26861d
+95,93,Margaux,2008,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc26861e
+95,91,Margaux,2007,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc26861f
+95,93,Margaux,2006,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268620
+95,95,Margaux,2005,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268621
+95,92,Margaux,2004,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268622
+95,91,Margaux,2003,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268623
+96,98,Pauillac,2022,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268624
+95,91,Margaux,2001,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268625
+95,93,Margaux,2000,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268626
+93,94,Pessac-Leognan,2022,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268627
+93,92,Pessac-Leognan,2021,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268628
+93,94,Pessac-Leognan,2020,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268629
+93,94,Pessac-Leognan,2019,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26862a
+93,94,Pessac-Leognan,2018,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26862b
+93,94,Pessac-Leognan,2017,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26862c
+93,94,Pessac-Leognan,2016,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26862d
+96,95,Pauillac,2021,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26862e
+93,93,Pessac-Leognan,2014,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26862f
+93,90,Pessac-Leognan,2013,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268630
+93,92,Pessac-Leognan,2012,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268631
+93,91,Pessac-Leognan,2011,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268632
+93,94,Pessac-Leognan,2010,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268633
+93,94,Pessac-Leognan,2009,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268634
+93,92,Pessac-Leognan,2008,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268635
+93,91,Pessac-Leognan,2007,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268636
+93,92,Pessac-Leognan,2006,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268637
+93,94,Pessac-Leognan,2005,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268638
+93,92,Pessac-Leognan,2004,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268639
+95,97,Margaux,2022,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc26863a
+93,90,Pessac-Leognan,2002,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26863b
+93,92,Pessac-Leognan,2001,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26863c
+93,93,Pessac-Leognan,2000,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26863d
+95,97,Saint-Emilion Grand Cru,2022,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26863e
+95,94,Saint-Emilion Grand Cru,2021,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26863f
+95,97,Saint-Emilion Grand Cru,2020,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268640
+95,96,Saint-Emilion Grand Cru,2019,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268641
+95,96,Saint-Emilion Grand Cru,2018,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268642
+95,95,Saint-Emilion Grand Cru,2017,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268643
+95,97,Saint-Emilion Grand Cru,2016,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268644
+95,95,Saint-Emilion Grand Cru,2015,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268645
+96,98,Pauillac,2019,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc268646
+95,91,Saint-Emilion Grand Cru,2013,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268647
+95,94,Saint-Emilion Grand Cru,2012,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268648
+95,92,Saint-Emilion Grand Cru,2011,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268649
+95,95,Saint-Emilion Grand Cru,2010,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26864a
+95,94,Saint-Emilion Grand Cru,2009,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26864b
+95,93,Saint-Emilion Grand Cru,2008,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26864c
+96,97,Pauillac,2018,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26864d
+95,93,Saint-Emilion Grand Cru,2006,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26864e
+96,95,Pauillac,2008,"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",6581ba4099d7fcd8bc26864f
+93,93,Pessac-Leognan,2015,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268650
+95,94,Margaux,2012,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268651
+95,91,Margaux,2002,"Chateau Palmer 3eme Cru Classe, Margaux",6581ba4099d7fcd8bc268652
+95,92,Saint-Emilion Grand Cru,2007,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268653
+93,93,Pessac-Leognan,2003,"Chateau Pape Clement Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc268654
+95,93,Saint-Emilion Grand Cru,2014,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268655
+95,92,Saint-Emilion Grand Cru,2004,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268656
+95,95,Saint-Emilion Grand Cru,2005,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268657
+95,92,Saint-Emilion Grand Cru,2002,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268658
+95,93,Saint-Emilion Grand Cru,2003,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268659
+95,97,Saint-Emilion Grand Cru,2022,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26865a
+95,93,Saint-Emilion Grand Cru,2001,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26865b
+95,95,Saint-Emilion Grand Cru,2000,"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26865c
+95,96,Saint-Emilion Grand Cru,2019,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26865d
+95,94,Saint-Emilion Grand Cru,2021,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26865e
+95,97,Saint-Emilion Grand Cru,2020,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26865f
+95,97,Saint-Emilion Grand Cru,2016,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268660
+95,96,Saint-Emilion Grand Cru,2018,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268661
+95,94,Saint-Emilion Grand Cru,2009,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268662
+95,95,Saint-Emilion Grand Cru,2017,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268663
+95,94,Saint-Emilion Grand Cru,2012,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268664
+95,95,Saint-Emilion Grand Cru,2015,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268665
+95,93,Saint-Emilion Grand Cru,2014,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268666
+95,91,Saint-Emilion Grand Cru,2013,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268667
+95,95,Saint-Emilion Grand Cru,2010,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268668
+95,92,Saint-Emilion Grand Cru,2011,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268669
+95,92,Saint-Emilion Grand Cru,2007,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26866a
+95,93,Saint-Emilion Grand Cru,2008,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26866b
+95,95,Saint-Emilion Grand Cru,2005,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26866c
+95,93,Saint-Emilion Grand Cru,2006,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26866d
+95,93,Saint-Emilion Grand Cru,2003,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26866e
+95,92,Saint-Emilion Grand Cru,2004,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26866f
+95,95,Saint-Emilion Grand Cru,2000,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268670
+95,92,Saint-Emilion Grand Cru,2002,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268671
+95,93,Saint-Emilion Grand Cru,2001,"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268672
+95,95,Pauillac,2015,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268673
+95,94,Pauillac,2014,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268674
+95,91,Pauillac,2013,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268675
+95,92,Pauillac,2012,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268676
+95,92,Pauillac,2011,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268677
+95,96,Pauillac,2010,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268678
+95,97,Pauillac,2019,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268679
+95,93,Pauillac,2008,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26867a
+95,91,Pauillac,2007,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26867b
+95,92,Pauillac,2006,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26867c
+95,94,Pauillac,2005,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26867d
+95,92,Pauillac,2004,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26867e
+95,93,Pauillac,2003,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26867f
+95,96,Pauillac,2022,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268680
+95,92,Pauillac,2001,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268681
+95,94,Pauillac,2000,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268682
+95,97,Pauillac,2022,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268683
+95,94,Pauillac,2021,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268684
+95,96,Pauillac,2020,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268685
+95,94,Pauillac,2021,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268686
+95,96,Pauillac,2018,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268687
+95,95,Pauillac,2017,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268688
+95,97,Pauillac,2016,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268689
+95,95,Pauillac,2015,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26868a
+95,93,Pauillac,2014,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26868b
+95,90,Pauillac,2013,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26868c
+95,92,Pauillac,2012,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26868d
+95,92,Pauillac,2011,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26868e
+95,94,Pauillac,2010,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26868f
+95,96,Pauillac,2020,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268690
+95,91,Pauillac,2008,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268691
+95,90,Pauillac,2007,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268692
+95,92,Pauillac,2006,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268693
+95,93,Pauillac,2005,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268694
+95,92,Pauillac,2004,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268695
+95,92,Pauillac,2003,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268696
+95,91,Pauillac,2002,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268697
+95,92,Pauillac,2001,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268698
+95,93,Pauillac,2000,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc268699
+95,96,Pauillac,2022,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26869a
+95,94,Pauillac,2021,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26869b
+95,95,Pauillac,2020,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26869c
+95,96,Pauillac,2019,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26869d
+95,97,Pauillac,2018,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26869e
+95,94,Pauillac,2017,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc26869f
+95,97,Pauillac,2016,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686a0
+95,95,Pauillac,2015,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686a1
+95,94,Pauillac,2014,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686a2
+95,92,Pauillac,2013,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686a3
+95,94,Pauillac,2009,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686a4
+95,93,Pauillac,2012,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686a5
+95,93,Pauillac,2011,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686a6
+95,96,Pauillac,2010,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686a7
+95,92,Pauillac,2008,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686a8
+95,91,Pauillac,2007,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686a9
+95,93,Pauillac,2006,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686aa
+95,96,Pauillac,2009,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686ab
+95,91,Pauillac,2004,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686ac
+95,93,Pauillac,2003,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686ad
+95,90,Pauillac,2002,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686ae
+95,90,Pauillac,2001,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686af
+95,92,Pauillac,2000,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686b0
+95,95,Chateauneuf-du-Pape,2020,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686b1
+95,98,Chateauneuf-du-Pape,2017,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686b2
+95,97,Chateauneuf-du-Pape,2016,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686b3
+95,97,Chateauneuf-du-Pape,2015,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686b4
+95,94,Chateauneuf-du-Pape,2014,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686b5
+95,95,Chateauneuf-du-Pape,2013,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686b6
+95,94,Pauillac,2005,"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686b7
+95,94,Chateauneuf-du-Pape,2011,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686b8
+95,95,Chateauneuf-du-Pape,2012,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686b9
+95,96,Chateauneuf-du-Pape,2010,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686ba
+95,95,Chateauneuf-du-Pape,2009,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686bb
+95,93,Chateauneuf-du-Pape,2008,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686bc
+95,95,Chateauneuf-du-Pape,2007,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686bd
+95,96,Pauillac,2016,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686be
+95,96,Pauillac,2018,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686bf
+95,94,Chateauneuf-du-Pape,2006,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686c0
+95,96,Chateauneuf-du-Pape,2005,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686c1
+95,93,Chateauneuf-du-Pape,2004,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686c2
+95,93,Chateauneuf-du-Pape,2003,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686c3
+95,89,Chateauneuf-du-Pape,2002,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686c4
+95,93,Chateauneuf-du-Pape,2001,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686c5
+95,92,Chateauneuf-du-Pape,2000,"Chateau Rayas, Chateauneuf-du-Pape",6581ba4099d7fcd8bc2686c6
+93,94,Sauternes,2022,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686c7
+93,95,Sauternes,2021,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686c8
+95,94,Pauillac,2017,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686c9
+93,94,Sauternes,2020,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686ca
+93,94,Sauternes,2019,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686cb
+93,92,Sauternes,2018,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686cc
+93,94,Sauternes,2017,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686cd
+93,93,Sauternes,2016,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686ce
+93,94,Sauternes,2015,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686cf
+93,93,Sauternes,2014,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686d0
+93,93,Sauternes,2013,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686d1
+93,93,Sauternes,2011,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686d2
+93,95,Sauternes,2009,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686d3
+93,92,Sauternes,2008,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686d4
+93,93,Sauternes,2007,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686d5
+93,92,Sauternes,2010,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686d6
+93,92,Sauternes,2006,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686d7
+93,93,Sauternes,2005,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686d8
+93,93,Sauternes,2003,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686d9
+93,91,Sauternes,2004,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686da
+93,91,Sauternes,2002,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686db
+93,91,Sauternes,2000,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686dc
+93,95,Sauternes,2001,"Chateau Rieussec Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686dd
+94,96,Pessac-Leognan,2022,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686de
+95,95,Pauillac,2009,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686df
+94,94,Pessac-Leognan,2021,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686e0
+95,91,Pauillac,2002,"Chateau Pichon Baron 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686e1
+95,97,Pauillac,2019,"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",6581ba4099d7fcd8bc2686e2
+94,94,Pessac-Leognan,2017,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686e3
+94,96,Pessac-Leognan,2020,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686e4
+94,95,Pessac-Leognan,2019,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686e5
+94,95,Pessac-Leognan,2018,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686e6
+94,93,Pessac-Leognan,2014,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686e7
+94,96,Pessac-Leognan,2016,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686e8
+94,90,Pessac-Leognan,2007,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686e9
+94,95,Pessac-Leognan,2015,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686ea
+94,95,Pessac-Leognan,2010,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686eb
+94,90,Pessac-Leognan,2013,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686ec
+94,93,Pessac-Leognan,2012,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686ed
+94,92,Pessac-Leognan,2011,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686ee
+94,91,Pessac-Leognan,2001,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686ef
+94,95,Pessac-Leognan,2009,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686f0
+94,95,Sauternes,2022,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686f1
+94,95,Sauternes,2021,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686f2
+94,93,Sauternes,2020,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686f3
+94,94,Sauternes,2019,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686f4
+94,93,Sauternes,2018,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686f5
+94,91,Pessac-Leognan,2006,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686f6
+94,94,Sauternes,2017,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686f7
+94,94,Sauternes,2016,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686f8
+94,95,Sauternes,2015,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686f9
+94,91,Pessac-Leognan,2004,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686fa
+94,91,Pessac-Leognan,2008,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686fb
+94,91,Pessac-Leognan,2003,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc2686fc
+94,94,Sauternes,2011,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686fd
+94,92,Sauternes,2008,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686fe
+94,94,Sauternes,2007,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc2686ff
+94,92,Sauternes,2006,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc268700
+94,94,Sauternes,2005,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc268701
+94,91,Sauternes,2004,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc268702
+94,93,Sauternes,2003,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc268703
+94,93,Sauternes,2013,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc268704
+94,95,Sauternes,2001,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc268705
+94,91,Sauternes,2000,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc268706
+96,96,Sauternes,2020,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268707
+94,95,Sauternes,2009,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc268708
+96,96,Sauternes,2018,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268709
+94,94,Sauternes,2010,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc26870a
+94,91,Pessac-Leognan,2000,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26870b
+94,90,Pessac-Leognan,2002,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26870c
+94,92,Sauternes,2002,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc26870d
+94,95,Sauternes,2014,"Chateau Suduiraut Premier Cru Classe, Sauternes",6581ba4099d7fcd8bc26870e
+96,96,Sauternes,2016,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc26870f
+96,96,Sauternes,2010,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268710
+96,97,Sauternes,2014,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268711
+96,96,Sauternes,2013,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268712
+96,97,Sauternes,2015,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268713
+96,97,Sauternes,2017,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268714
+96,96,Sauternes,2011,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268715
+96,96,Sauternes,2019,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268716
+96,97,Sauternes,2009,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268717
+96,95,Sauternes,2008,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268718
+96,97,Sauternes,2007,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268719
+96,96,Sauternes,2006,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc26871a
+96,96,Sauternes,2005,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc26871b
+96,93,Sauternes,2004,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc26871c
+96,95,Sauternes,2003,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc26871d
+96,98,Sauternes,2001,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc26871e
+96,92,Sauternes,2000,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc26871f
+96,95,Sauternes,2002,"Chateau d'Yquem Premier Cru Superieur, Sauternes",6581ba4099d7fcd8bc268720
+96,95,Chateauneuf-du-Pape,2021,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268721
+96,96,Chateauneuf-du-Pape,2020,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268722
+96,97,Chateauneuf-du-Pape,2019,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268723
+96,97,Chateauneuf-du-Pape,2018,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268724
+96,97,Chateauneuf-du-Pape,2017,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268725
+96,96,Chateauneuf-du-Pape,2015,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268726
+96,95,Chateauneuf-du-Pape,2014,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268727
+96,97,Chateauneuf-du-Pape,2016,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268728
+96,95,Chateauneuf-du-Pape,2013,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268729
+96,96,Chateauneuf-du-Pape,2012,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26872a
+96,97,Chateauneuf-du-Pape,2007,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26872b
+96,95,Chateauneuf-du-Pape,2011,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26872c
+96,96,Chateauneuf-du-Pape,2005,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26872d
+96,95,Chateauneuf-du-Pape,2004,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26872e
+96,97,Chateauneuf-du-Pape,2010,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26872f
+96,95,Chateauneuf-du-Pape,2001,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268730
+96,96,Chateauneuf-du-Pape,2009,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268731
+96,95,Chateauneuf-du-Pape,2000,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268732
+96,94,Chateauneuf-du-Pape,2003,"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268733
+93,92,Chateauneuf-du-Pape,2021,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268734
+93,94,Chateauneuf-du-Pape,2020,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268735
+93,94,Chateauneuf-du-Pape,2018,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268736
+93,93,Chateauneuf-du-Pape,2019,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268737
+93,95,Chateauneuf-du-Pape,2016,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268738
+93,93,Chateauneuf-du-Pape,2017,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268739
+93,94,Chateauneuf-du-Pape,2015,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26873a
+93,92,Chateauneuf-du-Pape,2014,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26873b
+93,92,Chateauneuf-du-Pape,2013,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26873c
+93,93,Chateauneuf-du-Pape,2012,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26873d
+93,92,Chateauneuf-du-Pape,2011,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26873e
+93,94,Chateauneuf-du-Pape,2010,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc26873f
+93,93,Chateauneuf-du-Pape,2009,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268740
+93,92,Chateauneuf-du-Pape,2008,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268741
+93,94,Chateauneuf-du-Pape,2007,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268742
+93,94,Chateauneuf-du-Pape,2006,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268743
+93,93,Chateauneuf-du-Pape,2004,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268744
+93,93,Chateauneuf-du-Pape,2005,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268745
+93,94,Chateauneuf-du-Pape,2002,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268746
+93,93,Chateauneuf-du-Pape,2003,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268747
+93,92,Chateauneuf-du-Pape,2000,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268748
+93,92,Chateauneuf-du-Pape,2001,"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",6581ba4099d7fcd8bc268749
+94,96,Saint-Emilion Grand Cru,2022,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26874a
+94,95,Saint-Emilion Grand Cru,2019,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26874b
+94,93,Saint-Emilion Grand Cru,2014,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26874c
+94,91,Saint-Emilion Grand Cru,2013,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26874d
+94,92,Saint-Emilion Grand Cru,2012,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26874e
+94,92,Saint-Emilion Grand Cru,2011,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26874f
+94,94,Saint-Emilion Grand Cru,2010,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268750
+94,93,Saint-Emilion Grand Cru,2009,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268751
+94,95,Saint-Emilion Grand Cru,2020,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268752
+94,91,Saint-Emilion Grand Cru,2008,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268753
+94,90,Saint-Emilion Grand Cru,2007,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268754
+94,91,Saint-Emilion Grand Cru,2006,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268755
+94,90,Saint-Emilion Grand Cru,2004,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268756
+94,93,Saint-Emilion Grand Cru,2017,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268757
+94,92,Saint-Emilion Grand Cru,2003,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268758
+94,89,Saint-Emilion Grand Cru,2002,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268759
+94,90,Saint-Emilion Grand Cru,2001,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26875a
+94,93,Saint-Emilion Grand Cru,2021,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26875b
+94,91,Saint-Emilion Grand Cru,2000,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26875c
+94,94,Saint-Emilion Grand Cru,2015,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26875d
+95,95,Cote de Nuits,2021,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26875e
+94,95,Saint-Emilion Grand Cru,2018,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc26875f
+94,95,Saint-Emilion Grand Cru,2016,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268760
+95,97,Cote de Nuits,2019,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268761
+94,93,Saint-Emilion Grand Cru,2005,"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",6581ba4099d7fcd8bc268762
+95,95,Cote de Nuits,2020,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268763
+95,94,Cote de Nuits,2018,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268764
+95,96,Cote de Nuits,2017,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268765
+95,96,Cote de Nuits,2016,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268766
+95,96,Cote de Nuits,2015,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268767
+95,94,Cote de Nuits,2014,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268768
+95,94,Cote de Nuits,2013,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268769
+95,93,Cote de Nuits,2011,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26876a
+95,94,Cote de Nuits,2012,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26876b
+95,95,Cote de Nuits,2010,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26876c
+95,92,Cote de Nuits,2003,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26876d
+95,94,Cote de Nuits,2002,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26876e
+95,93,Cote de Nuits,2001,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26876f
+95,92,Cote de Nuits,2000,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268770
+94,94,Chateauneuf-du-Pape,2021,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268771
+94,95,Chateauneuf-du-Pape,2020,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268772
+94,96,Chateauneuf-du-Pape,2019,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268773
+94,95,Chateauneuf-du-Pape,2018,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268774
+94,95,Chateauneuf-du-Pape,2017,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268775
+94,96,Chateauneuf-du-Pape,2016,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268776
+95,93,Cote de Nuits,2007,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268777
+95,95,Cote de Nuits,2009,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc268778
+94,95,Chateauneuf-du-Pape,2015,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268779
+95,91,Cote de Nuits,2004,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26877a
+95,94,Cote de Nuits,2008,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26877b
+95,95,Cote de Nuits,2005,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26877c
+95,93,Cote de Nuits,2006,"Clos de Tart, Clos de Tart Grand Cru",6581ba4099d7fcd8bc26877d
+94,94,Pessac-Leognan,2005,"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",6581ba4099d7fcd8bc26877e
+94,94,Chateauneuf-du-Pape,2014,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc26877f
+94,93,Chateauneuf-du-Pape,2013,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268780
+94,94,Chateauneuf-du-Pape,2012,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268781
+94,94,Chateauneuf-du-Pape,2011,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268782
+94,96,Chateauneuf-du-Pape,2010,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268783
+94,95,Chateauneuf-du-Pape,2009,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268784
+94,93,Chateauneuf-du-Pape,2008,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268785
+94,96,Chateauneuf-du-Pape,2007,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268786
+94,94,Chateauneuf-du-Pape,2006,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268787
+94,92,Chateauneuf-du-Pape,2001,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268788
+92,92,Cote de Beaune,2018,"Coche-Dury, Meursault",6581ba4099d7fcd8bc268789
+92,92,Cote de Beaune,2017,"Coche-Dury, Meursault",6581ba4099d7fcd8bc26878a
+94,94,Chateauneuf-du-Pape,2004,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc26878b
+92,92,Cote de Beaune,2016,"Coche-Dury, Meursault",6581ba4099d7fcd8bc26878c
+92,93,Cote de Beaune,2019,"Coche-Dury, Meursault",6581ba4099d7fcd8bc26878d
+92,92,Cote de Beaune,2015,"Coche-Dury, Meursault",6581ba4099d7fcd8bc26878e
+92,93,Cote de Beaune,2014,"Coche-Dury, Meursault",6581ba4099d7fcd8bc26878f
+92,91,Cote de Beaune,2013,"Coche-Dury, Meursault",6581ba4099d7fcd8bc268790
+92,91,Cote de Beaune,2010,"Coche-Dury, Meursault",6581ba4099d7fcd8bc268791
+92,92,Cote de Beaune,2009,"Coche-Dury, Meursault",6581ba4099d7fcd8bc268792
+92,91,Cote de Beaune,2011,"Coche-Dury, Meursault",6581ba4099d7fcd8bc268793
+92,92,Cote de Beaune,2008,"Coche-Dury, Meursault",6581ba4099d7fcd8bc268794
+94,88,Chateauneuf-du-Pape,2002,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268795
+94,94,Chateauneuf-du-Pape,2003,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268796
+94,91,Chateauneuf-du-Pape,2000,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc268797
+92,93,Cote de Beaune,2020,"Coche-Dury, Meursault",6581ba4099d7fcd8bc268798
+92,89,Cote de Beaune,2003,"Coche-Dury, Meursault",6581ba4099d7fcd8bc268799
+92,91,Cote de Beaune,2002,"Coche-Dury, Meursault",6581ba4099d7fcd8bc26879a
+92,91,Cote de Beaune,2001,"Coche-Dury, Meursault",6581ba4099d7fcd8bc26879b
+92,91,Cote de Beaune,2000,"Coche-Dury, Meursault",6581ba4099d7fcd8bc26879c
+95,97,Saint-Estephe,2022,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc26879d
+95,96,Saint-Estephe,2020,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc26879e
+95,95,Saint-Estephe,2021,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc26879f
+95,97,Saint-Estephe,2019,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687a0
+95,96,Saint-Estephe,2018,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687a1
+95,94,Saint-Estephe,2017,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687a2
+95,97,Saint-Estephe,2016,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687a3
+95,95,Saint-Estephe,2015,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687a4
+92,91,Cote de Beaune,2005,"Coche-Dury, Meursault",6581ba4099d7fcd8bc2687a5
+92,92,Cote de Beaune,2007,"Coche-Dury, Meursault",6581ba4099d7fcd8bc2687a6
+95,94,Saint-Estephe,2014,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687a7
+95,96,Saint-Estephe,2010,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687a8
+94,95,Chateauneuf-du-Pape,2005,"Clos des Papes, Chateauneuf-du-Pape, Rouge",6581ba4099d7fcd8bc2687a9
+95,95,Saint-Estephe,2009,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687aa
+95,92,Saint-Estephe,2012,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687ab
+95,91,Saint-Estephe,2013,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687ac
+92,92,Cote de Beaune,2004,"Coche-Dury, Meursault",6581ba4099d7fcd8bc2687ad
+92,91,Cote de Beaune,2012,"Coche-Dury, Meursault",6581ba4099d7fcd8bc2687ae
+92,91,Cote de Beaune,2006,"Coche-Dury, Meursault",6581ba4099d7fcd8bc2687af
+95,92,Saint-Estephe,2002,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687b0
+95,92,Saint-Estephe,2001,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687b1
+95,93,Saint-Estephe,2000,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687b2
+96,95,Cote de Nuits,2021,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687b3
+96,96,Cote de Nuits,2020,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687b4
+96,96,Cote de Nuits,2019,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687b5
+96,96,Cote de Nuits,2018,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687b6
+96,96,Cote de Nuits,2017,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687b7
+96,97,Cote de Nuits,2016,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687b8
+96,97,Cote de Nuits,2015,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687b9
+95,93,Saint-Estephe,2006,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687ba
+95,92,Saint-Estephe,2004,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687bb
+95,94,Saint-Estephe,2003,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687bc
+96,96,Cote de Nuits,2012,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687bd
+96,96,Cote de Nuits,2013,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687be
+96,98,Cote de Nuits,2010,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687bf
+96,95,Cote de Nuits,2011,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687c0
+95,92,Saint-Estephe,2011,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687c1
+95,95,Saint-Estephe,2005,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687c2
+95,93,Saint-Estephe,2008,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687c3
+95,91,Saint-Estephe,2007,"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",6581ba4099d7fcd8bc2687c4
+96,96,Cote de Nuits,2009,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687c5
+96,97,Cote de Nuits,2014,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687c6
+96,95,Cote de Nuits,2008,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687c7
+96,94,Cote de Nuits,2007,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687c8
+96,95,Cote de Nuits,2006,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687c9
+96,97,Cote de Nuits,2005,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687ca
+96,93,Cote de Nuits,2004,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687cb
+96,94,Cote de Nuits,2003,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687cc
+96,93,Cote de Nuits,2000,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687cd
+96,95,Cote de Nuits,2001,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687ce
+96,95,Cote de Nuits,2002,"Domaine Armand Rousseau, Chambertin Grand Cru",6581ba4099d7fcd8bc2687cf
+94,94,Cote de Beaune,2021,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687d0
+94,96,Cote de Beaune,2020,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687d1
+94,94,Cote de Beaune,2018,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687d2
+94,95,Cote de Beaune,2015,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687d3
+94,94,Cote de Beaune,2010,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687d4
+94,93,Cote de Beaune,2011,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687d5
+94,93,Cote de Beaune,2009,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687d6
+94,94,Cote de Beaune,2008,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687d7
+94,93,Cote de Beaune,2006,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687d8
+94,95,Cote de Beaune,2005,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687d9
+94,93,Cote de Beaune,2004,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687da
+94,92,Cote de Beaune,2003,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687db
+94,93,Cote de Beaune,2007,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687dc
+94,92,Cote de Beaune,2002,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687dd
+94,91,Cote de Beaune,2001,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687de
+95,95,Cote de Nuits,2021,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687df
+95,96,Cote de Nuits,2020,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687e0
+94,92,Cote de Beaune,2000,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687e1
+95,96,Cote de Nuits,2019,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687e2
+95,94,Cote de Nuits,2017,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687e3
+94,94,Cote de Beaune,2017,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687e4
+94,94,Cote de Beaune,2016,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687e5
+94,94,Cote de Beaune,2013,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687e6
+94,95,Cote de Beaune,2019,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687e7
+94,94,Cote de Beaune,2014,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687e8
+95,95,Cote de Nuits,2018,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687e9
+94,94,Cote de Beaune,2012,"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",6581ba4099d7fcd8bc2687ea
+95,95,Cote de Nuits,2016,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687eb
+95,96,Cote de Nuits,2015,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687ec
+95,95,Cote de Nuits,2013,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687ed
+95,95,Cote de Nuits,2014,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687ee
+95,96,Cote de Nuits,2012,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687ef
+95,96,Cote de Nuits,2010,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687f0
+95,94,Cote de Nuits,2011,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687f1
+95,95,Cote de Nuits,2009,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687f2
+95,95,Cote de Nuits,2008,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687f3
+95,94,Cote de Nuits,2007,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687f4
+95,94,Cote de Nuits,2004,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687f5
+95,92,Cote de Nuits,2003,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687f6
+95,95,Cote de Nuits,2002,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687f7
+95,94,Cote de Nuits,2001,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687f8
+95,94,Cote de Nuits,2000,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc2687f9
+95,94,Cote de Nuits,2021,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc2687fa
+95,97,Cote de Nuits,2020,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc2687fb
+95,95,Cote de Nuits,2019,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc2687fc
+95,95,Cote de Nuits,2018,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc2687fd
+95,95,Cote de Nuits,2017,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc2687fe
+95,96,Cote de Nuits,2015,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc2687ff
+95,95,Cote de Nuits,2014,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268800
+95,95,Cote de Nuits,2012,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268801
+95,94,Cote de Nuits,2013,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268802
+95,94,Cote de Nuits,2011,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268803
+95,95,Cote de Nuits,2009,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268804
+95,95,Cote de Nuits,2010,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268805
+95,95,Cote de Nuits,2008,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268806
+95,94,Cote de Nuits,2007,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268807
+95,93,Cote de Nuits,2006,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268808
+95,89,Cote de Nuits,2004,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268809
+95,92,Cote de Nuits,2003,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc26880a
+95,95,Cote de Nuits,2005,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc26880b
+95,95,Cote de Nuits,2006,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc26880c
+95,96,Cote de Nuits,2005,"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",6581ba4099d7fcd8bc26880d
+95,96,Cote de Nuits,2016,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc26880e
+95,95,Cote de Nuits,2002,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc26880f
+95,91,Cote de Nuits,2000,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268810
+95,94,Hermitage,2021,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268811
+95,95,Hermitage,2020,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268812
+95,93,Cote de Nuits,2001,"Domaine Georges Roumier, Bonnes Mares Grand Cru",6581ba4099d7fcd8bc268813
+95,97,Hermitage,2019,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268814
+95,96,Hermitage,2016,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268815
+95,96,Hermitage,2018,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268816
+95,96,Hermitage,2017,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268817
+95,95,Hermitage,2014,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268818
+95,98,Hermitage,2015,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268819
+95,95,Hermitage,2013,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc26881a
+95,94,Hermitage,2012,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc26881b
+95,95,Hermitage,2011,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc26881c
+95,97,Hermitage,2010,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc26881d
+95,92,Hermitage,2008,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc26881e
+95,96,Hermitage,2009,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc26881f
+95,94,Hermitage,2006,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268820
+95,94,Hermitage,2007,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268821
+95,96,Hermitage,2003,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268822
+95,96,Hermitage,2005,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268823
+95,95,Hermitage,2004,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268824
+95,94,Hermitage,2000,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268825
+95,90,Hermitage,2002,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268826
+95,94,Hermitage,2001,"Domaine Jean Louis Chave, Hermitage, Rouge",6581ba4099d7fcd8bc268827
+95,95,Cote de Beaune,2020,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268828
+95,96,Cote de Beaune,2021,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268829
+95,96,Cote de Beaune,2018,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc26882a
+95,96,Cote de Beaune,2019,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc26882b
+95,94,Cote de Beaune,2016,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc26882c
+95,95,Cote de Beaune,2017,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc26882d
+95,94,Cote de Beaune,2009,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc26882e
+95,94,Cote de Beaune,2013,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc26882f
+95,94,Cote de Beaune,2011,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268830
+95,95,Cote de Beaune,2012,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268831
+95,94,Cote de Beaune,2015,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268832
+95,94,Cote de Beaune,2008,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268833
+95,94,Cote de Beaune,2014,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268834
+95,94,Cote de Beaune,2007,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268835
+95,96,Cote de Beaune,2010,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268836
+95,94,Cote de Beaune,2006,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268837
+95,95,Cote de Beaune,2005,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268838
+95,93,Cote de Beaune,2004,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc268839
+95,91,Cote de Beaune,2003,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc26883a
+95,92,Cote de Beaune,2001,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc26883b
+95,93,Cote de Beaune,2000,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc26883c
+94,91,Chateauneuf-du-Pape,2021,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc26883d
+95,94,Cote de Beaune,2002,"Domaine Leflaive, Batard-Montrachet Grand Cru",6581ba4099d7fcd8bc26883e
+94,95,Chateauneuf-du-Pape,2020,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc26883f
+94,96,Chateauneuf-du-Pape,2019,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268840
+94,94,Chateauneuf-du-Pape,2018,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268841
+94,94,Chateauneuf-du-Pape,2017,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268842
+94,95,Chateauneuf-du-Pape,2016,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268843
+94,92,Chateauneuf-du-Pape,2014,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268844
+94,96,Chateauneuf-du-Pape,2015,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268845
+94,95,Chateauneuf-du-Pape,2007,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268846
+94,94,Chateauneuf-du-Pape,2006,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268847
+94,95,Chateauneuf-du-Pape,2005,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268848
+94,94,Chateauneuf-du-Pape,2004,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268849
+94,93,Chateauneuf-du-Pape,2003,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc26884a
+94,93,Chateauneuf-du-Pape,2001,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc26884b
+94,93,Chateauneuf-du-Pape,2000,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc26884c
+94,93,Chateauneuf-du-Pape,2011,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc26884d
+94,93,Chateauneuf-du-Pape,2013,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc26884e
+94,91,Chateauneuf-du-Pape,2008,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc26884f
+94,94,Cote de Nuits,2021,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268850
+94,93,Chateauneuf-du-Pape,2012,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268851
+94,95,Chateauneuf-du-Pape,2010,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268852
+94,94,Chateauneuf-du-Pape,2009,"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",6581ba4099d7fcd8bc268853
+94,94,Cote de Nuits,2020,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268854
+94,94,Cote de Nuits,2019,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268855
+94,94,Cote de Nuits,2017,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268856
+94,94,Cote de Nuits,2018,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268857
+94,93,Cote de Nuits,2016,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268858
+94,93,Cote de Nuits,2014,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268859
+94,93,Cote de Nuits,2013,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc26885a
+94,94,Cote de Nuits,2012,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc26885b
+94,93,Cote de Nuits,2015,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc26885c
+94,93,Cote de Nuits,2004,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc26885d
+94,93,Cote de Nuits,2009,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc26885e
+94,92,Cote de Nuits,2003,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc26885f
+94,92,Cote de Nuits,2002,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268860
+94,94,Cote de Nuits,2005,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268861
+94,92,Cote de Nuits,2001,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268862
+94,93,Cote de Nuits,2010,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268863
+94,93,Cote de Nuits,2008,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268864
+94,93,Cote de Nuits,2011,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268865
+94,92,Cote de Nuits,2007,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268866
+94,93,Cote de Nuits,2006,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268867
+94,92,Cote de Nuits,2000,"Domaine de la Romanee-Conti, Echezeaux Grand Cru",6581ba4099d7fcd8bc268868
+95,95,Cote de Nuits,2021,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268869
+95,95,Cote de Nuits,2020,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc26886a
+95,96,Cote de Nuits,2019,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc26886b
+95,95,Cote de Nuits,2018,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc26886c
+95,95,Cote de Nuits,2017,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc26886d
+95,95,Cote de Nuits,2015,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc26886e
+95,95,Cote de Nuits,2014,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc26886f
+95,95,Cote de Nuits,2016,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268870
+95,93,Cote de Nuits,2006,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268871
+95,95,Cote de Nuits,2005,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268872
+95,92,Cote de Nuits,2004,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268873
+95,93,Cote de Nuits,2003,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268874
+95,93,Cote de Nuits,2002,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268875
+95,92,Cote de Nuits,2007,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268876
+95,92,Cote de Nuits,2001,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268877
+95,92,Cote de Nuits,2000,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268878
+97,97,Cote de Nuits,2020,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268879
+97,98,Cote de Nuits,2019,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26887a
+97,97,Cote de Nuits,2018,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26887b
+97,96,Cote de Nuits,2017,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26887c
+97,97,Cote de Nuits,2016,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26887d
+97,98,Cote de Nuits,2015,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26887e
+95,94,Cote de Nuits,2013,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc26887f
+95,94,Cote de Nuits,2012,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268880
+95,94,Cote de Nuits,2011,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268881
+95,94,Cote de Nuits,2010,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268882
+95,95,Cote de Nuits,2009,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268883
+95,94,Cote de Nuits,2008,"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",6581ba4099d7fcd8bc268884
+97,96,Cote de Nuits,2021,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268885
+97,96,Cote de Nuits,2013,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268886
+97,96,Cote de Nuits,2014,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268887
+97,95,Cote de Nuits,2011,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268888
+97,96,Cote de Nuits,2012,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268889
+97,97,Cote de Nuits,2009,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26888a
+97,97,Cote de Nuits,2010,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26888b
+97,95,Cote de Nuits,2007,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26888c
+97,96,Cote de Nuits,2008,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26888d
+97,97,Cote de Nuits,2005,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26888e
+97,96,Cote de Nuits,2006,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc26888f
+97,96,Cote de Nuits,2003,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268890
+97,95,Cote de Nuits,2004,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268891
+97,94,Cote de Nuits,2001,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268892
+97,96,Cote de Nuits,2002,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268893
+97,95,Cote de Nuits,2000,"Domaine de la Romanee-Conti, La Tache Grand Cru",6581ba4099d7fcd8bc268894
+96,97,Cote de Nuits,2019,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc268895
+96,96,Cote de Nuits,2020,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc268896
+96,97,Cote de Nuits,2021,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc268897
+96,96,Cote de Nuits,2017,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc268898
+96,97,Cote de Nuits,2018,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc268899
+96,96,Cote de Nuits,2009,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc26889a
+96,95,Cote de Nuits,2013,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc26889b
+96,95,Cote de Nuits,2008,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc26889c
+96,93,Cote de Nuits,2007,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc26889d
+96,94,Cote de Nuits,2006,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc26889e
+96,95,Cote de Nuits,2005,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc26889f
+96,93,Cote de Nuits,2004,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688a0
+96,94,Cote de Nuits,2002,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688a1
+96,93,Cote de Nuits,2001,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688a2
+96,94,Cote de Nuits,2003,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688a3
+96,92,Cote de Nuits,2000,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688a4
+96,96,Cote de Nuits,2016,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688a5
+96,97,Cote de Nuits,2015,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688a6
+98,98,Cote de Nuits,2018,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688a7
+96,95,Cote de Nuits,2010,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688a8
+96,96,Cote de Nuits,2012,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688a9
+96,95,Cote de Nuits,2014,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688aa
+96,95,Cote de Nuits,2011,"Domaine de la Romanee-Conti, Richebourg Grand Cru",6581ba4099d7fcd8bc2688ab
+98,96,Cote de Nuits,2021,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688ac
+98,98,Cote de Nuits,2019,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688ad
+98,97,Cote de Nuits,2013,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688ae
+98,98,Cote de Nuits,2012,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688af
+98,96,Cote de Nuits,2011,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688b0
+98,97,Cote de Nuits,2010,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688b1
+98,96,Cote de Nuits,2009,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688b2
+98,97,Cote de Nuits,2008,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688b3
+98,95,Cote de Nuits,2007,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688b4
+98,98,Cote de Nuits,2005,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688b5
+98,97,Cote de Nuits,2006,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688b6
+98,96,Cote de Nuits,2004,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688b7
+98,98,Cote de Nuits,2016,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688b8
+98,97,Cote de Nuits,2017,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688b9
+98,98,Cote de Nuits,2020,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688ba
+98,97,Cote de Nuits,2014,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688bb
+98,99,Cote de Nuits,2015,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688bc
+98,96,Cote de Nuits,2002,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688bd
+98,96,Cote de Nuits,2003,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688be
+98,96,Cote de Nuits,2001,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688bf
+98,95,Cote de Nuits,2000,"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",6581ba4099d7fcd8bc2688c0
+95,95,Cote de Nuits,2021,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688c1
+95,96,Cote de Nuits,2019,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688c2
+95,95,Cote de Nuits,2020,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688c3
+95,96,Cote de Nuits,2017,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688c4
+95,95,Cote de Nuits,2018,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688c5
+95,95,Cote de Nuits,2014,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688c6
+95,96,Cote de Nuits,2016,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688c7
+95,95,Cote de Nuits,2008,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688c8
+95,94,Cote de Nuits,2006,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688c9
+95,94,Cote de Nuits,2007,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688ca
+95,96,Cote de Nuits,2005,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688cb
+95,96,Cote de Nuits,2015,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688cc
+95,95,Cote de Nuits,2011,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688cd
+95,94,Cote de Nuits,2001,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688ce
+95,91,Cote de Nuits,2000,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688cf
+95,95,Cote de Nuits,2009,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688d0
+94,94,Cote de Nuits,2021,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688d1
+94,96,Cote de Nuits,2020,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688d2
+94,95,Cote de Nuits,2018,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688d3
+94,95,Cote de Nuits,2019,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688d4
+94,94,Cote de Nuits,2017,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688d5
+94,93,Cote de Nuits,2016,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688d6
+94,94,Cote de Nuits,2015,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688d7
+94,93,Cote de Nuits,2013,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688d8
+94,93,Cote de Nuits,2012,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688d9
+94,93,Cote de Nuits,2014,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688da
+94,92,Cote de Nuits,2011,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688db
+94,93,Cote de Nuits,2009,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688dc
+94,93,Cote de Nuits,2008,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688dd
+94,94,Cote de Nuits,2010,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688de
+94,91,Cote de Nuits,2007,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688df
+94,94,Cote de Nuits,2005,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688e0
+95,96,Cote de Nuits,2010,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688e1
+94,93,Cote de Nuits,2006,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688e2
+95,93,Cote de Nuits,2004,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688e3
+95,95,Cote de Nuits,2013,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688e4
+95,94,Cote de Nuits,2003,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688e5
+95,95,Cote de Nuits,2012,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688e6
+95,94,Cote de Nuits,2002,"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",6581ba4099d7fcd8bc2688e7
+94,92,Cote de Nuits,2004,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688e8
+94,93,Cote de Nuits,2003,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688e9
+94,93,Cote de Nuits,2002,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688ea
+94,92,Cote de Nuits,2001,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688eb
+94,91,Cote de Nuits,2000,"Domaine des Lambrays, Clos des Lambrays Grand Cru",6581ba4099d7fcd8bc2688ec
+95,97,Saint-Julien,2022,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688ed
+95,95,Saint-Julien,2021,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688ee
+95,96,Saint-Julien,2020,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688ef
+95,96,Saint-Julien,2019,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688f0
+95,96,Saint-Julien,2018,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688f1
+95,95,Saint-Julien,2017,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688f2
+95,97,Saint-Julien,2016,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688f3
+95,95,Saint-Julien,2014,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688f4
+95,96,Saint-Julien,2015,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688f5
+95,92,Saint-Julien,2013,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688f6
+95,93,Saint-Julien,2012,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688f7
+95,93,Saint-Julien,2011,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688f8
+95,96,Saint-Julien,2010,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688f9
+95,96,Saint-Julien,2009,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688fa
+95,93,Saint-Julien,2008,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688fb
+95,91,Saint-Julien,2007,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688fc
+95,93,Saint-Julien,2006,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688fd
+95,94,Saint-Julien,2005,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688fe
+95,92,Saint-Julien,2004,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc2688ff
+95,89,Saint-Julien,2002,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268900
+95,92,Saint-Julien,2003,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268901
+95,91,Saint-Julien,2001,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268902
+95,93,Saint-Julien,2000,"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",6581ba4099d7fcd8bc268903
+93,95,Cote Rotie,2019,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268904
+93,92,Cote Rotie,2020,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268905
+93,93,Cote Rotie,2016,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268906
+93,94,Cote Rotie,2010,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268907
+93,93,Cote Rotie,2014,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268908
+93,92,Cote Rotie,2008,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268909
+93,93,Cote Rotie,2011,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc26890a
+93,94,Cote Rotie,2007,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc26890b
+93,93,Cote Rotie,2006,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc26890c
+93,92,Cote Rotie,2013,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc26890d
+93,93,Cote Rotie,2005,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc26890e
+93,92,Cote Rotie,2004,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc26890f
+93,93,Cote Rotie,2012,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268910
+93,91,Cote Rotie,2001,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268911
+93,93,Cote Rotie,2003,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268912
+93,94,Cote Rotie,2015,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268913
+93,91,Cote Rotie,2000,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268914
+93,91,Cote Rotie,2002,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268915
+93,94,Cote Rotie,2018,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268916
+93,93,Cote Rotie,2017,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268917
+93,94,Cote Rotie,2009,"E. Guigal, Cote Rotie, Chateau d'Ampuis",6581ba4099d7fcd8bc268918
+96,94,Cote Rotie,2021,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268919
+96,96,Cote Rotie,2013,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26891a
+96,96,Cote Rotie,2012,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26891b
+96,95,Cote Rotie,2011,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26891c
+96,97,Cote Rotie,2010,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26891d
+96,97,Cote Rotie,2009,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26891e
+96,93,Cote Rotie,2008,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26891f
+96,96,Cote Rotie,2007,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268920
+96,95,Cote Rotie,2006,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268921
+96,97,Cote Rotie,2005,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268922
+96,94,Cote Rotie,2004,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268923
+96,97,Cote Rotie,2003,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268924
+96,93,Cote Rotie,2002,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268925
+96,94,Cote Rotie,2001,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268926
+96,95,Cote Rotie,2000,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268927
+96,96,Cote Rotie,2020,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268928
+96,97,Cote Rotie,2019,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc268929
+96,97,Cote Rotie,2018,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26892a
+96,97,Cote Rotie,2017,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26892b
+96,97,Cote Rotie,2016,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26892c
+96,98,Cote Rotie,2015,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26892d
+96,95,Cote Rotie,2014,"E. Guigal, Cote Rotie, La Landonne",6581ba4099d7fcd8bc26892e
+94,91,Cote de Beaune,2020,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc26892f
+94,94,Cote de Beaune,2019,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268930
+94,95,Cote de Beaune,2018,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268931
+94,95,Cote de Beaune,2017,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268932
+94,95,Cote de Beaune,2016,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268933
+94,94,Cote de Beaune,2015,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268934
+94,95,Cote de Beaune,2014,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268935
+94,94,Cote de Beaune,2013,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268936
+94,94,Cote de Beaune,2012,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268937
+94,94,Cote de Beaune,2004,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268938
+94,91,Cote de Beaune,2003,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268939
+94,94,Cote de Beaune,2002,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc26893a
+94,93,Cote de Beaune,2001,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc26893b
+94,92,Cote de Beaune,2000,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc26893c
+91,93,Pessac-Leognan,2022,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc26893d
+91,91,Pessac-Leognan,2021,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc26893e
+91,92,Pessac-Leognan,2020,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc26893f
+91,92,Pessac-Leognan,2019,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268940
+91,92,Pessac-Leognan,2018,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268941
+91,91,Pessac-Leognan,2017,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268942
+91,93,Pessac-Leognan,2016,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268943
+91,92,Pessac-Leognan,2015,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268944
+91,90,Pessac-Leognan,2014,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268945
+91,89,Pessac-Leognan,2013,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268946
+91,90,Pessac-Leognan,2012,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268947
+91,90,Pessac-Leognan,2011,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268948
+91,91,Pessac-Leognan,2010,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268949
+94,95,Cote de Beaune,2011,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc26894a
+94,94,Cote de Beaune,2010,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc26894b
+94,94,Cote de Beaune,2009,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc26894c
+94,94,Cote de Beaune,2008,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc26894d
+94,94,Cote de Beaune,2007,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc26894e
+94,92,Cote de Beaune,2006,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc26894f
+94,94,Cote de Beaune,2005,"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",6581ba4099d7fcd8bc268950
+91,91,Pessac-Leognan,2009,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268951
+91,88,Pessac-Leognan,2007,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268952
+91,88,Pessac-Leognan,2006,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268953
+91,91,Pessac-Leognan,2005,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268954
+91,85,Pessac-Leognan,2004,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268955
+91,90,Pessac-Leognan,2008,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268956
+91,89,Pessac-Leognan,2003,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268957
+91,87,Pessac-Leognan,2002,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268958
+91,88,Pessac-Leognan,2001,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc268959
+91,89,Pessac-Leognan,2000,"Le Clarence de Haut-Brion, Pessac-Leognan",6581ba4099d7fcd8bc26895a
+92,91,Pauillac,2021,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc26895b
+92,93,Pauillac,2022,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc26895c
+92,92,Pauillac,2017,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc26895d
+92,90,Pauillac,2012,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc26895e
+92,89,Pauillac,2011,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc26895f
+92,91,Pauillac,2010,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268960
+92,91,Pauillac,2009,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268961
+92,90,Pauillac,2008,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268962
+92,93,Pauillac,2020,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268963
+92,90,Pauillac,2006,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268964
+92,90,Pauillac,2005,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268965
+92,93,Pauillac,2004,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268966
+92,87,Pauillac,2003,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268967
+92,90,Pauillac,2002,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268968
+92,89,Pauillac,2001,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268969
+92,88,Pauillac,2000,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc26896a
+96,97,Pomerol,2022,"Le Pin, Pomerol",6581ba4099d7fcd8bc26896b
+96,94,Pomerol,2021,"Le Pin, Pomerol",6581ba4099d7fcd8bc26896c
+96,97,Pomerol,2020,"Le Pin, Pomerol",6581ba4099d7fcd8bc26896d
+96,95,Pomerol,2019,"Le Pin, Pomerol",6581ba4099d7fcd8bc26896e
+96,96,Pomerol,2018,"Le Pin, Pomerol",6581ba4099d7fcd8bc26896f
+96,94,Pomerol,2017,"Le Pin, Pomerol",6581ba4099d7fcd8bc268970
+92,93,Pauillac,2019,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268971
+96,97,Pomerol,2016,"Le Pin, Pomerol",6581ba4099d7fcd8bc268972
+96,94,Pomerol,2014,"Le Pin, Pomerol",6581ba4099d7fcd8bc268973
+96,97,Pomerol,2015,"Le Pin, Pomerol",6581ba4099d7fcd8bc268974
+96,94,Pomerol,2012,"Le Pin, Pomerol",6581ba4099d7fcd8bc268975
+92,92,Pauillac,2015,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268976
+92,92,Pauillac,2016,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268977
+96,93,Pomerol,2011,"Le Pin, Pomerol",6581ba4099d7fcd8bc268978
+92,93,Pauillac,2018,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc268979
+92,88,Pauillac,2007,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc26897a
+92,92,Pauillac,2014,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc26897b
+92,89,Pauillac,2013,"Le Petit Mouton de Mouton Rothschild, Pauillac",6581ba4099d7fcd8bc26897c
+96,96,Pomerol,2010,"Le Pin, Pomerol",6581ba4099d7fcd8bc26897d
+96,96,Pomerol,2009,"Le Pin, Pomerol",6581ba4099d7fcd8bc26897e
+96,91,Pomerol,2007,"Le Pin, Pomerol",6581ba4099d7fcd8bc26897f
+96,94,Pomerol,2008,"Le Pin, Pomerol",6581ba4099d7fcd8bc268980
+96,94,Pomerol,2006,"Le Pin, Pomerol",6581ba4099d7fcd8bc268981
+96,94,Pomerol,2005,"Le Pin, Pomerol",6581ba4099d7fcd8bc268982
+96,94,Pomerol,2004,"Le Pin, Pomerol",6581ba4099d7fcd8bc268983
+96,91,Pomerol,2002,"Le Pin, Pomerol",6581ba4099d7fcd8bc268984
+96,94,Pomerol,2001,"Le Pin, Pomerol",6581ba4099d7fcd8bc268985
+96,95,Pomerol,2000,"Le Pin, Pomerol",6581ba4099d7fcd8bc268986
+92,94,Pauillac,2022,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268987
+92,91,Pauillac,2021,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268988
+92,94,Pauillac,2020,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268989
+92,94,Pauillac,2019,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc26898a
+92,93,Pauillac,2018,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc26898b
+92,92,Pauillac,2017,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc26898c
+92,94,Pauillac,2016,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc26898d
+92,93,Pauillac,2015,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc26898e
+92,92,Pauillac,2014,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc26898f
+92,90,Pauillac,2013,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268990
+92,91,Pauillac,2012,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268991
+92,91,Pauillac,2011,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268992
+92,93,Pauillac,2010,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268993
+92,93,Pauillac,2009,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268994
+92,91,Pauillac,2008,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268995
+92,90,Pauillac,2007,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268996
+92,90,Pauillac,2006,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268997
+92,92,Pauillac,2005,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268998
+92,91,Pauillac,2004,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc268999
+92,91,Pauillac,2003,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc26899a
+92,90,Pauillac,2002,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc26899b
+92,90,Pauillac,2001,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc26899c
+92,92,Pauillac,2000,"Les Forts de Latour, Pauillac",6581ba4099d7fcd8bc26899d
+95,94,Hermitage,2021,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc26899e
+95,99,Hermitage,2020,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc26899f
+95,95,Hermitage,2019,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689a0
+95,95,Hermitage,2018,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689a1
+95,96,Hermitage,2017,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689a2
+95,96,Hermitage,2016,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689a3
+95,96,Hermitage,2015,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689a4
+95,95,Hermitage,2014,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689a5
+95,94,Hermitage,2013,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689a6
+95,95,Hermitage,2012,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689a7
+95,96,Hermitage,2011,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689a8
+95,97,Hermitage,2010,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689a9
+95,97,Hermitage,2009,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689aa
+95,93,Hermitage,2008,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689ab
+95,93,Hermitage,2007,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689ac
+95,95,Hermitage,2006,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689ad
+95,96,Hermitage,2005,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689ae
+95,93,Hermitage,2004,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689af
+95,94,Hermitage,2003,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689b0
+95,90,Hermitage,2002,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689b1
+95,93,Hermitage,2001,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689b2
+95,94,Hermitage,2000,"M. Chapoutier, Ermitage, Le Pavillon",6581ba4099d7fcd8bc2689b3
+95,95,Hermitage,2021,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689b4
+95,93,Hermitage,2020,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689b5
+95,97,Hermitage,2019,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689b6
+95,95,Hermitage,2018,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689b7
+95,94,Hermitage,2017,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689b8
+95,95,Hermitage,2016,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689b9
+95,98,Hermitage,2015,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689ba
+95,93,Hermitage,2013,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689bb
+95,93,Hermitage,2011,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689bc
+95,94,Hermitage,2012,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689bd
+95,95,Hermitage,2010,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689be
+95,94,Hermitage,2014,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689bf
+95,93,Hermitage,2007,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689c0
+95,95,Hermitage,2009,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689c1
+95,92,Hermitage,2005,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689c2
+95,91,Hermitage,2006,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689c3
+95,93,Hermitage,2003,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689c4
+95,91,Hermitage,2004,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689c5
+95,91,Hermitage,2001,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689c6
+95,88,Hermitage,2002,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689c7
+92,92,Margaux,2021,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689c8
+95,90,Hermitage,2000,"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",6581ba4099d7fcd8bc2689c9
+92,93,Margaux,2022,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689ca
+92,93,Margaux,2018,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689cb
+92,93,Margaux,2020,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689cc
+92,90,Margaux,2011,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689cd
+92,93,Margaux,2015,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689ce
+92,92,Margaux,2010,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689cf
+92,92,Margaux,2009,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689d0
+92,92,Margaux,2017,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689d1
+92,93,Margaux,2016,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689d2
+92,94,Margaux,2019,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689d3
+92,90,Margaux,2012,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689d4
+92,90,Margaux,2003,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689d5
+92,88,Margaux,2002,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689d6
+92,89,Margaux,2001,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689d7
+92,91,Margaux,2000,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689d8
+92,90,Margaux,2004,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689d9
+92,92,Margaux,2014,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689da
+92,89,Margaux,2013,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689db
+92,89,Margaux,2006,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689dc
+96,97,Pomerol,2018,"Petrus, Pomerol",6581ba4099d7fcd8bc2689dd
+96,96,Pomerol,2017,"Petrus, Pomerol",6581ba4099d7fcd8bc2689de
+96,98,Pomerol,2016,"Petrus, Pomerol",6581ba4099d7fcd8bc2689df
+96,98,Pomerol,2015,"Petrus, Pomerol",6581ba4099d7fcd8bc2689e0
+96,95,Pomerol,2014,"Petrus, Pomerol",6581ba4099d7fcd8bc2689e1
+96,93,Pomerol,2013,"Petrus, Pomerol",6581ba4099d7fcd8bc2689e2
+96,96,Pomerol,2012,"Petrus, Pomerol",6581ba4099d7fcd8bc2689e3
+96,94,Pomerol,2011,"Petrus, Pomerol",6581ba4099d7fcd8bc2689e4
+96,97,Pomerol,2010,"Petrus, Pomerol",6581ba4099d7fcd8bc2689e5
+96,97,Pomerol,2009,"Petrus, Pomerol",6581ba4099d7fcd8bc2689e6
+96,95,Pomerol,2008,"Petrus, Pomerol",6581ba4099d7fcd8bc2689e7
+96,93,Pomerol,2007,"Petrus, Pomerol",6581ba4099d7fcd8bc2689e8
+96,94,Pomerol,2006,"Petrus, Pomerol",6581ba4099d7fcd8bc2689e9
+96,97,Pomerol,2005,"Petrus, Pomerol",6581ba4099d7fcd8bc2689ea
+96,94,Pomerol,2004,"Petrus, Pomerol",6581ba4099d7fcd8bc2689eb
+96,94,Pomerol,2003,"Petrus, Pomerol",6581ba4099d7fcd8bc2689ec
+96,97,Pomerol,2019,"Petrus, Pomerol",6581ba4099d7fcd8bc2689ed
+92,89,Margaux,2008,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689ee
+96,97,Pomerol,2000,"Petrus, Pomerol",6581ba4099d7fcd8bc2689ef
+96,92,Pomerol,2002,"Petrus, Pomerol",6581ba4099d7fcd8bc2689f0
+95,97,Pomerol,2022,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc2689f1
+96,95,Pomerol,2001,"Petrus, Pomerol",6581ba4099d7fcd8bc2689f2
+95,95,Pomerol,2021,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc2689f3
+95,97,Pomerol,2020,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc2689f4
+95,97,Pomerol,2019,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc2689f5
+95,97,Pomerol,2018,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc2689f6
+95,96,Pomerol,2017,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc2689f7
+95,97,Pomerol,2016,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc2689f8
+92,89,Margaux,2007,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689f9
+96,95,Pomerol,2021,"Petrus, Pomerol",6581ba4099d7fcd8bc2689fa
+92,91,Margaux,2005,"Pavillon Rouge du Chateau Margaux, Margaux",6581ba4099d7fcd8bc2689fb
+96,98,Pomerol,2022,"Petrus, Pomerol",6581ba4099d7fcd8bc2689fc
+96,98,Pomerol,2020,"Petrus, Pomerol",6581ba4099d7fcd8bc2689fd
+95,96,Pomerol,2015,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc2689fe
+95,95,Pomerol,2014,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc2689ff
+95,91,Pomerol,2013,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a00
+95,95,Pomerol,2005,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a01
+95,92,Pomerol,2004,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a02
+95,90,Pomerol,2003,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a03
+95,91,Pomerol,2002,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a04
+95,93,Pomerol,2001,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a05
+95,94,Pomerol,2000,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a06
+95,93,Pomerol,2012,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a07
+95,94,Pomerol,2011,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a08
+95,96,Pomerol,2010,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a09
+95,96,Pomerol,2009,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a0a
+95,93,Pomerol,2008,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a0b
+95,94,Pomerol,2006,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a0c
+95,91,Pomerol,2007,"Vieux Chateau Certan, Pomerol",6581ba4099d7fcd8bc268a0d
